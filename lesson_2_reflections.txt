@@ -11,3 +11,11 @@ only the part of the working directory that you wish to commit.  It is different
 files are not actually part of the repository - yet - but rather are the files that want to put in the repository.
 This is valuable in that it gives you a chance to play around with files and changes prior to actually committing
 them in the repository.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+It is a good idea to review the changes between the working directory, the staging area, and the commit log to make
+sure you are committing a single logical change at a time.  Even if you have multiple changes you want to commit, you
+can use the staging area to add a single change and commit, then continue adding any additional changes from the
+working directory to the staging area and committing again, as needed.

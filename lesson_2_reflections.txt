@@ -19,3 +19,12 @@ It is a good idea to review the changes between the working directory, the stagi
 sure you are committing a single logical change at a time.  Even if you have multiple changes you want to commit, you
 can use the staging area to add a single change and commit, then continue adding any additional changes from the
 working directory to the staging area and committing again, as needed.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would be helpful in situations where you want to try out different experimental features or create different
+versions of a file or program.  Different versions may include a different language, different game difficulty, free
+version vs paid version, etc.  Branches would help because you would be able to work on those different versions and
+track your changes separately from the main file.  This means you can experiment without fear of messing up your
+main, current, working version.

@@ -42,3 +42,11 @@ Mergins two branches together creates a single branch that includes all commits 
 order based on the individual timestamps.  It is represented in the diagram as two branches joining together because
 once you work off of the merge commit, all previous commits from both branches are now accessible from the new
 commit/branch.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git's automatic merging process is definitely a much faster process than having to go through all of your code
+manually and combining changes (PRO).  However, it isn't foolproof and can't always tell which is the correct code
+CON).  In these cases it is beneficial to be able to compare files manually and choosing which is the correct code to
+use.

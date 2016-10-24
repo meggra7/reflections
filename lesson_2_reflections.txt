@@ -28,3 +28,9 @@ versions of a file or program.  Different versions may include a different langu
 version vs paid version, etc.  Branches would help because you would be able to work on those different versions and
 track your changes separately from the main file.  This means you can experiment without fear of messing up your
 main, current, working version.
+
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams easily show the linear structure of each branch and where it originates from the master branch.  It also
+easily shows which commits are accessible through each branch.

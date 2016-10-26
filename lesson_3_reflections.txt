@@ -11,3 +11,14 @@ If you are working on a feature independently, you will likely only want to push
 satisfied with your work.  If you pull commits from others before you are done you may pull code that you aren't
 ready to compile with yours.  In the same manner you most likely won't want to push commits for your work until they
 are at a workable state.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is a copy of a repository specifically made on GitHub.  You would fork a repository when you want to work on
+another person's repository that you found online without actually contributing to their repository directly.  A
+clone is a copy of a repository either made completely offline on your computer, or between your computer and GitHub.
+You would clone a repository when you want to work on and contribute to a repository directly.  Finally, a branch is
+a new line of commits that is created within a single repository.  You would create a branch with a repository to
+work on a new feature or experimental idea, but not necessarily with the intent to share or copy the repository to
+GitHub or another computer.

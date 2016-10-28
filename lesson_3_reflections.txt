@@ -40,3 +40,12 @@ changes at a time, and you wouldn't run into merge conflicts, for example.  Howe
 could be less productive.  You would have to limit the people working on certain features at a single time, or if you
 had multiple people work on a feature at the same computer they could really only make single changes at a time
 instead of working independently on multiple changes.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each
+approach have?
+
+In addition to our previous discussions on using different branches, you may also want to use a different branch when
+you are working on a new idea that you aren't sure others will approve or not for the master.  By using a different
+branch you can create pull requests on GitHub to ensure others can review and approve prior to adding it to the
+master.

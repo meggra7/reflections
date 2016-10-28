@@ -22,3 +22,9 @@ You would clone a repository when you want to work on and contribute to a reposi
 a new line of commits that is created within a single repository.  You would create a branch with a repository to
 work on a new feature or experimental idea, but not necessarily with the intent to share or copy the repository to
 GitHub or another computer.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+This is helpful in that it allows you to work on changes with the remote branch without having to be online.  This
+allows you to work on a more up-to-date version of the file(s) before attempting to push/merge your changes later on.
